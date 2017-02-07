@@ -56,6 +56,6 @@
   "dependencies": {
     "classnames": "2.x",
     "rc-animate": "2.x",
-    "css-animation": "1.x"
+    "css-animation": "tszekely-spotcap/css-animation"
   }
 }

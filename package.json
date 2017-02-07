@@ -21,8 +21,9 @@
   },
   "license": "MIT",
   "files": [
-    "lib",
-    "assets/*.css"
+    "assets",
+    "src",
+    "index.js"
   ],
   "main": "./lib/index",
   "config": {
